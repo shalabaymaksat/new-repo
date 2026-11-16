@@ -1,0 +1,8 @@
+inbox/
+assets/_c/
+projects/*/audio/
+projects/*/chunks/
+projects/*/masks/
+projects/*/out/
+projects/*/test/
+projects/*/src/
